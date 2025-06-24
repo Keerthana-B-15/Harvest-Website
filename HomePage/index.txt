@@ -1,0 +1,25 @@
+club-website/
+├── index.html
+├── css/
+│   ├── style.css
+│   └── admin.css
+├── js/
+│   ├── main.js
+│   └── admin.js
+├── admin/
+│   ├── index.html
+│   ├── events.html
+│   ├── members.html
+│   └── content.html
+├── pages/
+│   ├── about.html
+│   ├── events.html
+│   ├── membership.html
+│   ├── gallery.html
+│   ├── blog.html
+│   ├── resources.html
+│   └── contact.html
+└── assets/
+    ├── images/
+    ├── fonts/
+    └── icons/
